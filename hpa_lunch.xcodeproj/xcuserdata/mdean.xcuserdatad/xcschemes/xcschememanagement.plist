@@ -4,10 +4,68 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>hpa_lunch.xcscheme_^#shared#^_</key>
+		<key>Development.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>Grades.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>18</integer>
+		</dict>
+		<key>Homework.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Production.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>widget.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>AC0AA0AC21A4B7980096C9C7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AC0AA0B521A4B7980096C9C7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AC24BB25218B9DB800B0DD07</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AC2839F621AD1B8400D9ABE4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AC2839FF21AD1B8400D9ABE4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AC6662D821ADD3E4003C546D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>ACD5A0CA218A4A7500FE8F97</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

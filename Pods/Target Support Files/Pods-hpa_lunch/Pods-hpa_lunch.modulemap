@@ -1,0 +1,6 @@
+framework module Pods_hpa_lunch {
+  umbrella header "Pods-hpa_lunch-umbrella.h"
+
+  export *
+  module * { export * }
+}
